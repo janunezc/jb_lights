@@ -1,0 +1,29 @@
+{
+  "name": "jb_lights_gui",
+  "version": "0.0.0",
+  "homepage": "https://github.com/janunezc/jb_lights",
+  "authors": [
+    "janunezc <jose.nunez@intel.com>"
+  ],
+  "description": "Didactic version of jb lights project",
+  "main": "index.php",
+  "keywords": [
+    "Raspberry",
+    "PI",
+    "Web",
+    "UI"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "jquery-ui": "~1.11.4"
+  }
+}

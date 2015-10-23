@@ -1,0 +1,9 @@
+#divMain label{
+    width:100px;
+    font-weight: bold;
+    display: inline-block
+}
+
+#divMain button, #divMain input{
+    width:100px;
+}
